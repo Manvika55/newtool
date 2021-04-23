@@ -1,0 +1,7 @@
+x = 7
+if x <= 10:
+  print("code is working")
+  
+else:
+
+  print("else is working")
